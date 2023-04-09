@@ -1,4 +1,4 @@
-# RegexHTMLTagSearch
+# htmlTagRegex
 
 A gist describing a regex used to search for HTML tags
 
